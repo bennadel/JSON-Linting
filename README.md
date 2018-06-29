@@ -3,6 +3,10 @@
 
 by [Ben Nadel][bennadel]
 
+**[Run the Secure JSON Linter][demo]** &raquo;
+
+v1.0.0
+
 This app provides a super simple user interface (UI) that attempts to parse a given input
 as a JSON string. If the input can be parsed successfully, it is pretty-printed to the
 output. If the input cannot be parsed, the error message is displayed to the user.
@@ -15,4 +19,5 @@ there's no chance of any 3rd-party sites getting compromised and injecting malic
 alongside your sensitive data.
 
 
-bennadel: https://www.bennadel.com
+[bennadel]: https://www.bennadel.com
+[demo]: https://bennadel.github.io/JSON-Linting/
